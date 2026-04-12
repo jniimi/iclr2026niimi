@@ -21,6 +21,7 @@ Accepted at the **ICLR 2026 the 2nd Workshop on World Models: Understanding, Mod
 - Nagoya, Aichi 468-8502, Japan
 - 📧 [jniimi@meijo-u.ac.jp](mailto:jniimi@meijo-u.ac.jp)
 - 🔗 [researchmap](https://researchmap.jp/jniimi?lang=en)
+- 📄 [CV (PDF)](https://jniimilab.ai/cv.pdf)
 
 ---
 
@@ -118,4 +119,13 @@ A selection from prior work. Full list: [researchmap](https://researchmap.jp/jni
 
 Questions, comments, or collaboration ideas welcome — please reach out by email.
 
-*Open to academic collaborations, research visits, and discussions.*
+### Looking for collaborators & compute
+
+I'm actively looking to bring this line of work to a wider international audience. If you're a **graduate student, researcher, or company** curious about *AI research from a slightly unusual angle* — separating world models from language, energy-based cognition, interventional generation — I'd love to hear from you.
+
+Particularly welcome:
+
+- 🤝 **Research collaborations** (academic or industrial)
+- 🖥 **Compute sponsorship / GPU resources** — scaling these experiments to larger LMs is currently the main bottleneck
+- 🏫 **Visiting positions, short research stays, seminar invitations**
+- 💬 **Informal chats** — happy to discuss ideas even without a concrete project
