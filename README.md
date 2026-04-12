@@ -16,6 +16,7 @@ Accepted at the **ICLR 2026 the 2nd Workshop on World Models: Understanding, Mod
 
 **Dr. Junichiro Niimi** (Japan)
 
+- Associate Professor
 - Faculty of Business Management, Meijo University
 - Nagoya, Aichi 468-8502, Japan
 - 📧 [jniimi@meijo-u.ac.jp](mailto:jniimi@meijo-u.ac.jp)
