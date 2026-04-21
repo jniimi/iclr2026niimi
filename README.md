@@ -39,6 +39,10 @@ Even small language models can generate consistent, controllable text when conne
 
 ---
 
+<img src="./img/poster.png" width="100%" alt="Poster">
+
+---
+
 ## Why Separate the World Model from the Language Model?
 
 1. **Reusable brain.** Once domain structure is learned, the same world model can drive different "mouths" — text, images, classifiers. Only the output modality changes.
