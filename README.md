@@ -85,16 +85,13 @@ Only the adapter is updated during end-task training.
 Download: [Niimi2026.bib](./Niimi2026.bib)
 
 ```bibtex
-@inproceedings{niimi2025mouth,
-  title     = {The Mouth is Not the Brain: Bridging Energy-Based World Models and Language Generation},
-  author    = {Niimi, Junichiro},
-  booktitle = {ICLR 2026 the 2nd Workshop on World Models: Understanding, Modelling and Scaling},
-  year      = {2026},
-  eprint    = {2601.17094},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.CL},
-  doi       = {10.48550/arXiv.2601.17094},
-  url       = {https://openreview.net/forum?id=GjyyyRyrWO}
+@inproceedings{
+niimi2026mouth,
+title={the Mouth is Not the Brain: Bridging Energy-Based World Models and Language Generation},
+author={Junichiro Niimi},
+booktitle={ICLR 2026 the 2nd Workshop on World Models: Understanding, Modelling and Scaling},
+year={2026},
+url={https://openreview.net/forum?id=GjyyyRyrWO}
 }
 ```
 
